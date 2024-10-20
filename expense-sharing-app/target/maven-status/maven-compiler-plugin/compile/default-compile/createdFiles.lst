@@ -1,0 +1,10 @@
+com\expensesharing\expense_sharing_app\test\ExpenseServiceTest.class
+com\expensesharing\expense_sharing_app\entity\User.class
+com\expensesharing\expense_sharing_app\ExpenseSharingAppApplication.class
+com\expensesharing\expense_sharing_app\entity\Expense.class
+com\expensesharing\expense_sharing_app\service\UserService.class
+com\expensesharing\expense_sharing_app\controller\UserController.class
+com\expensesharing\expense_sharing_app\controller\ExpenseController.class
+com\expensesharing\expense_sharing_app\service\ExpenseService.class
+com\expensesharing\expense_sharing_app\repository\UserRepository.class
+com\expensesharing\expense_sharing_app\repository\ExpenseRepository.class
